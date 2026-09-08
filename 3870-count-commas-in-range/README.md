@@ -2,11 +2,11 @@
 
 **Difficulty:** Easy  
 **URL:** [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/)
-**Solved in:** 4m 54s
+**Solved in:** 44s
 
 | Metric | Value | Beats |
 |--------|-------|-------|
-| Runtime | 8 ms | 8.47% |
+| Runtime | 1 ms | 83.65% |
 | Memory  | 42.6 MB | 39.85% |
 
 ---
