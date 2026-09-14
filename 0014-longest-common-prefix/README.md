@@ -2,12 +2,12 @@
 
 **Difficulty:** Easy  
 **URL:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-**Solved in:** 6m 18s
+**Solved in:** 6m 47s
 
 | Metric | Value | Beats |
 |--------|-------|-------|
 | Runtime | 0 ms | 100% |
-| Memory  | 43.1 MB | 82.51% |
+| Memory  | 43.2 MB | 50.31% |
 
 ---
 
