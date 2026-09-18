@@ -2,12 +2,12 @@
 
 **Difficulty:** Easy  
 **URL:** [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
-**Solved in:** 2m 51s
+**Solved in:** 4m 42s
 
 | Metric | Value | Beats |
 |--------|-------|-------|
 | Runtime | 3 ms | 58.61% |
-| Memory  | 52.4 MB | 83.88% |
+| Memory  | 52.6 MB | 46.17% |
 
 ---
 
