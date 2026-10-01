@@ -2,12 +2,12 @@
 
 **Difficulty:** Easy  
 **URL:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-**Solved in:** 10m 32s
+**Solved in:** 18s
 
 | Metric | Value | Beats |
 |--------|-------|-------|
-| Runtime | 2 ms | 97.94% |
-| Memory  | 45 MB | 5.64% |
+| Runtime | 2 ms | 97.69% |
+| Memory  | 44.9 MB | 5.69% |
 
 ---
 
