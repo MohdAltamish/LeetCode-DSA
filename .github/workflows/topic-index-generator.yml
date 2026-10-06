@@ -1,0 +1,53 @@
+name: Topic Index Generator
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+      - "scripts/generate_topic_indexes.py"
+      - "scripts/topic-mapping.json"
+      - "topic-wise-solution/**"
+      - "arrays/**"
+      - "strings/**"
+      - "linked-list/**"
+      - "stack-and-queue/**"
+      - "binary-search/**"
+      - "trees/**"
+      - "dynamic-programming/**"
+      - "greedy/**"
+      - "math/**"
+      - "bit-manipulation/**"
+      - "sliding-window/**"
+      - "backtracking/**"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "scripts/generate_topic_indexes.py"
+      - "scripts/topic-mapping.json"
+      - "topic-wise-solution/**"
+      - "arrays/**"
+      - "strings/**"
+      - "linked-list/**"
+      - "stack-and-queue/**"
+      - "binary-search/**"
+      - "trees/**"
+      - "dynamic-programming/**"
+      - "greedy/**"
+      - "math/**"
+      - "bit-manipulation/**"
+      - "sliding-window/**"
+      - "backtracking/**"
+
+jobs:
+  verify-topic-indexes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify generated topic indexes
+        run: python3 scripts/generate_topic_indexes.py --check

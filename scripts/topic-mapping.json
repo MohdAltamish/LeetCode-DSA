@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {"slug": "arrays", "name": "Arrays", "source_dir": "arrays"},
+    {"slug": "strings", "name": "Strings", "source_dir": "strings"},
+    {"slug": "linked-list", "name": "Linked List", "source_dir": "linked-list"},
+    {"slug": "stack-and-queue", "name": "Stack And Queue", "source_dir": "stack-and-queue"},
+    {"slug": "binary-search", "name": "Binary Search", "source_dir": "binary-search"},
+    {"slug": "trees", "name": "Trees", "source_dir": "trees"},
+    {"slug": "dynamic-programming", "name": "Dynamic Programming", "source_dir": "dynamic-programming"},
+    {"slug": "greedy", "name": "Greedy", "source_dir": "greedy"},
+    {"slug": "math", "name": "Math", "source_dir": "math"},
+    {"slug": "bit-manipulation", "name": "Bit Manipulation", "source_dir": "bit-manipulation"},
+    {"slug": "sliding-window", "name": "Sliding Window", "source_dir": "sliding-window"},
+    {"slug": "backtracking", "name": "Backtracking", "source_dir": "backtracking"}
+  ]
+}
