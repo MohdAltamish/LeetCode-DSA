@@ -2,12 +2,12 @@
 
 **Difficulty:** Easy  
 **URL:** [Perfect Number](https://leetcode.com/problems/perfect-number/)
-**Solved in:** 4m 39s
+**Solved in:** 11m 36s
 
 | Metric | Value | Beats |
 |--------|-------|-------|
-| Runtime | 2135 ms | 6.19% |
-| Memory  | 42.1 MB | 55.51% |
+| Runtime | 2 ms | 87.19% |
+| Memory  | 41.8 MB | 87.13% |
 
 ---
 
