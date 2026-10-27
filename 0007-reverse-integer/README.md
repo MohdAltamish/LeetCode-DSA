@@ -2,12 +2,12 @@
 
 **Difficulty:** Medium  
 **URL:** [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-**Solved in:** 8m 55s
+**Solved in:** 5m 46s
 
 | Metric | Value | Beats |
 |--------|-------|-------|
-| Runtime | 1 ms | 99.97% |
-| Memory  | 42.8 MB | 26.49% |
+| Runtime | 2 ms | 14.28% |
+| Memory  | 41.9 MB | 96.81% |
 
 ---
 
